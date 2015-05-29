@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/liam/dotfiles/vim/plugged/lightline.vim/autoload/lightline'
+let g:netrw_dirhist_2='/Users/liam/dotfiles'
+let g:netrw_dirhist_3='/Users/liam/dotfiles/vim/plugged/lightline.vim/autoload/lightline/colorscheme'
+let g:netrw_dirhist_4='/Users/liam/dotfiles/vim/colors/autoload/lightline'
+let g:netrw_dirhist_5='/Users/liam/dotfiles/vim/autoload/lightline'
+let g:netrw_dirhist_6='/Users/liam/dotfiles/vim/plugged/lightline.vim/autoload/lightline/colorscheme'
+let g:netrw_dirhist_7='/Users/liam/dotfiles'
+let g:netrw_dirhist_8='/Users/liam/dotfiles/vim/plugged/lightline.vim/autoload/lightline/colorscheme'
+let g:netrw_dirhist_9='/Users/liam/dotfiles/config/fish/functions'
